@@ -1,3 +1,3 @@
-### Hi there <img src="./hello.gif" height="10%" width="10%">  I am Daniel Unapanta
+## Hi there <img src="./hello.gif" height="5%" width="5%">  I am Daniel Unapanta
 
 
