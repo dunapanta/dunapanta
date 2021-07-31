@@ -2,6 +2,10 @@
 
 I consider myself a self-taught person and I am constantly learning something new. Nowadays interested in building web applications and mobile apps using Javascript and technologies like React, React Native, Nodejs and Nextjs. I also have experience working with Serverless Architecture on AWS.
 
+Feel free to check my React Native Portfolio App
+
+https://play.google.com/store/apps/details?id=com.dunapanta.portafoliodurn
+
 ## Technologies
 
 <div>
